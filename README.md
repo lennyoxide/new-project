@@ -84,6 +84,7 @@
     <!DOCTYPE HTML>
 
     <body>
+        <html>
         <div class="topnav">
             <a class="active" href="#home">Home</a>
             <a href="#about">About</a>
@@ -91,12 +92,21 @@
         </div>
         <h1>Rainwater Harvesters Of Virginia</h1>
         <h2>A Green Company</h2>
-        <p>Creating a greener future, for years to come<br>Providing recycled rainwater, that is non-potable.</p>
+        <!-- logo will go here beside the h2-->
+        <p>Creating a greener future, for years to come<br>Providing recycled non-potable rainwater for communities within Virginia.</p>
+        <!-- will have another image on the other side of this information -->
         <h1>What Rainwater Harvesters Are All About</h1>
+        <!-- This will link to the about in navbar -->
         <p>Information</p>
         <h1>Contact Us</h1>
+        <!-- This will link to the contactUs in navbar -->
         <p>Information</p>
+        <!--Will need navbar event to go to new portion of the screen
+on a on click event created in js must also add a script 
+opening and closing to link to js portion of page -->
     </body>
+
+    </html>
     <!-- End of Silex HEAD tag do not remove -->
 </head>
 
